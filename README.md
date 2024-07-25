@@ -20,7 +20,7 @@ Welcome to **Weather App**, your handy tool for checking the weather in any city
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/the-zoomeee/weather-app-using-react.git
+   [ git clone https://github.com/venuprasad3349/weatherApp.git
     ```
 
 2. Navigate to the project directory:
